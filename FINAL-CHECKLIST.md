@@ -1,0 +1,11 @@
+# Checklist versi pengembangan
+- [x] Katalog novel, genre, pencarian, detail, favorit, dan riwayat.
+- [x] Ruang baca dengan ukuran font dan tema.
+- [x] Navigasi Studio Penulis.
+- [x] Buat, simpan draf, terbitkan, edit, dan hapus karya.
+- [x] Impor `.txt`/`.md` dan unggah sampul.
+- [x] Halaman detail dan ruang baca untuk karya pengguna.
+- [x] Dokumentasi persiapan Firebase.
+- [ ] Firebase Authentication, Firestore, dan Storage aktif (menunggu konfigurasi proyek Firebase).
+- [ ] Pembaca PDF/EPUB langsung.
+- [ ] Pengujian lintas perangkat dan sinkronisasi cloud.
